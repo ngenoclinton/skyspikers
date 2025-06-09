@@ -135,7 +135,7 @@ export default function ProgramsPage() {
             </h1>
             <p className="text-xl md:text-2xl mb-8 text-gray-200 max-w-4xl mx-auto leading-relaxed">
               From beginners taking their first steps to elite athletes pursuing excellence, we have volleyball programs
-              designed to meet every player's needs and aspirations.
+              designed to meet every player&rsquo;s needs and aspirations.
             </p>
             <Link href="/contact" className="btn-primary text-lg px-8 py-4">
               Find Your Program

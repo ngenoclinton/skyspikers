@@ -62,7 +62,7 @@ export default function HomePage() {
     {
       name: "Emma Williams",
       role: "Youth Player",
-      content: "I love coming to practice! The coaches make learning fun and I've made so many friends.",
+      content: "I love coming to practice! The coaches make learning fun and I&rsquo;ve made so many friends.",
       rating: 5,
     },
   ]
@@ -85,7 +85,7 @@ export default function HomePage() {
               <span className="text-3xl md:text-5xl font-semibold">Volleyball Academy</span>
             </h1>
             <p className="text-xl md:text-2xl  text-gray-200 max-w-3xl mx-auto leading-relaxed">
-              Whether you're a beginner or an advanced athlete, we provide coaching that hones your skills, builds your
+              Whether you&rsquo;re a beginner or an advanced athlete, we provide coaching that hones your skills, builds your
               strategic game play, and helps you achieve your volleyball goals.
             </p>
             {/* <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
@@ -114,7 +114,7 @@ export default function HomePage() {
           <div className="text-center mb-16">
             <h2 className="text-4xl md:text-5xl font-display font-bold text-gray-800 mb-6">Why Choose SkySpikers?</h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              We're committed to developing not just better volleyball players, but confident, disciplined individuals
+              We&rsquo;re committed to developing not just better volleyball players, but confident, disciplined individuals
               who excel both on and off the court.
             </p>
           </div>
@@ -183,7 +183,7 @@ export default function HomePage() {
                 <span className="text-sky-400">Train with Purpose.</span>
               </h2>
               <p className="text-xl text-gray-300 mb-8 leading-relaxed">
-                At SkySpikers, we believe volleyball is more than just a sport—it's a way to build character, create
+                At SkySpikers, we believe volleyball is more than just a sport—it&rsquo;s a way to build character, create
                 lasting friendships, and develop life skills that extend far beyond the court.
               </p>
               <div className="grid grid-cols-2 gap-6 mb-8">
@@ -223,7 +223,7 @@ export default function HomePage() {
           <div className="text-center mb-16">
             <h2 className="text-4xl md:text-5xl font-display font-bold text-gray-800 mb-6">What Our Community Says</h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              Don't just take our word for it—hear from the players and families who make SkySpikers special.
+              Don&rsquo;t just take our word for it—hear from the players and families who make SkySpikers special.
             </p>
           </div>
 

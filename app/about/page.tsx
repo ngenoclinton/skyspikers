@@ -62,49 +62,49 @@ export default function AboutPage() {
     },
   ]
 const playerImages = [
-    'https://img.freepik.com/free-photo/black-white-portrait-athlete-competing-paralympics-championship-games_23-2151492687.jpg?ga=GA1.1.1427997224.1745267148&semt=ais_hybrid&w=740',
+    "https://img.freepik.com/free-photo/black-white-portrait-athlete-competing-paralympics-championship-games_23-2151492687.jpg?ga=GA1.1.1427997224.1745267148&semt=ais_hybrid&w=740",
 
-    'https://img.freepik.com/free-photo/monochrome-portrait-athlete-competing-paralympic-games-championship_23-2151492787.jpg?ga=GA1.1.1427997224.1745267148&semt=ais_hybrid&w=740',
+    "https://img.freepik.com/free-photo/monochrome-portrait-athlete-competing-paralympic-games-championship_23-2151492787.jpg?ga=GA1.1.1427997224.1745267148&semt=ais_hybrid&w=740",
 
-    'https://img.freepik.com/free-photo/young-volleyball-man-player-court_23-2149492393.jpg?ga=GA1.1.1427997224.1745267148&semt=ais_hybrid&w=740',
+    "https://img.freepik.com/free-photo/young-volleyball-man-player-court_23-2149492393.jpg?ga=GA1.1.1427997224.1745267148&semt=ais_hybrid&w=740",
 
-    'https://img.freepik.com/free-photo/girls-preparing-volleyball-field_23-2149451039.jpg?ga=GA1.1.1427997224.1745267148&semt=ais_hybrid&w=740',
+    "https://img.freepik.com/free-photo/girls-preparing-volleyball-field_23-2149451039.jpg?ga=GA1.1.1427997224.1745267148&semt=ais_hybrid&w=740",
 
-     {player1:'https://img.freepik.com/free-photo/young-woman-as-volleyball-player_23-2149492388.jpg?ga=GA1.1.1427997224.1745267148&semt=ais_hybrid&w=740'},
-     {player2:'https://img.freepik.com/free-photo/young-woman-as-volleyball-player_23-2149492401.jpg?ga=GA1.1.1427997224.1745267148&semt=ais_hybrid&w=740'},
-    {player3:'https://img.freepik.com/free-photo/young-volleyball-man-player-court_23-2149492344.jpg?ga=GA1.1.1427997224.1745267148&semt=ais_hybrid&w=740'},{},{},{},{},{},{},{},{},{},{},
-    'https://img.freepik.com/free-photo/young-woman-as-volleyball-player_23-2149492400.jpg?ga=GA1.1.1427997224.1745267148&semt=ais_hybrid&w=740',
+     {player1:"https://img.freepik.com/free-photo/young-woman-as-volleyball-player_23-2149492388.jpg?ga=GA1.1.1427997224.1745267148&semt=ais_hybrid&w=740"},
+     {player2:"https://img.freepik.com/free-photo/young-woman-as-volleyball-player_23-2149492401.jpg?ga=GA1.1.1427997224.1745267148&semt=ais_hybrid&w=740"},
+    {player3:"https://img.freepik.com/free-photo/young-volleyball-man-player-court_23-2149492344.jpg?ga=GA1.1.1427997224.1745267148&semt=ais_hybrid&w=740"},{},{},{},{},{},{},{},{},{},{},
+    "https://img.freepik.com/free-photo/young-woman-as-volleyball-player_23-2149492400.jpg?ga=GA1.1.1427997224.1745267148&semt=ais_hybrid&w=740",
 
-    'https://img.freepik.com/free-photo/girl-playing-volleyball_23-2149450950.jpg?ga=GA1.1.1427997224.1745267148&semt=ais_hybrid&w=740',
+    "https://img.freepik.com/free-photo/girl-playing-volleyball_23-2149450950.jpg?ga=GA1.1.1427997224.1745267148&semt=ais_hybrid&w=740",
 
-    'https://img.freepik.com/free-photo/girl-posing-with-volley-ball_23-2149450980.jpg?ga=GA1.1.1427997224.1745267148&semt=ais_hybrid&w=740',
+    "https://img.freepik.com/free-photo/girl-posing-with-volley-ball_23-2149450980.jpg?ga=GA1.1.1427997224.1745267148&semt=ais_hybrid&w=740",
 
-    'https://img.freepik.com/free-photo/young-woman-as-volleyball-player_23-2149492351.jpg?ga=GA1.1.1427997224.1745267148&semt=ais_hybrid&w=740', 
+    "https://img.freepik.com/free-photo/young-woman-as-volleyball-player_23-2149492351.jpg?ga=GA1.1.1427997224.1745267148&semt=ais_hybrid&w=740", 
     
-    'https://img.freepik.com/free-photo/young-volleyball-man-player-court_23-2149492362.jpg?ga=GA1.1.1427997224.1745267148&semt=ais_hybrid&w=740',
+    "https://img.freepik.com/free-photo/young-volleyball-man-player-court_23-2149492362.jpg?ga=GA1.1.1427997224.1745267148&semt=ais_hybrid&w=740",
     {},{},{},{},{},{},{},{},{},{},{},{},{},
-    'https://img.freepik.com/free-photo/young-woman-as-volleyball-player_23-2149492403.jpg?ga=GA1.1.1427997224.1745267148&semt=ais_hybrid&w=740',
+    "https://img.freepik.com/free-photo/young-woman-as-volleyball-player_23-2149492403.jpg?ga=GA1.1.1427997224.1745267148&semt=ais_hybrid&w=740",
    
     {
-        training1: 'https://img.freepik.com/free-photo/people-playing-game-volleyball_52683-87453.jpg?ga=GA1.1.1427997224.1745267148&semt=ais_hybrid&w=740'        
+        training1: "https://img.freepik.com/free-photo/people-playing-game-volleyball_52683-87453.jpg?ga=GA1.1.1427997224.1745267148&semt=ais_hybrid&w=740"        
     },
     {
-        training2:'https://img.freepik.com/free-photo/girls-playing-volleyball_23-2149450964.jpg?ga=GA1.1.1427997224.1745267148&semt=ais_hybrid&w=740'
+        training2:"https://img.freepik.com/free-photo/girls-playing-volleyball_23-2149450964.jpg?ga=GA1.1.1427997224.1745267148&semt=ais_hybrid&w=740"
     }, 
     {
         training3recept1:"https://img.freepik.com/free-photo/young-woman-as-volleyball-player_23-2149492351.jpg?ga=GA1.1.1427997224.1745267148&semt=ais_hybrid&w=740"
     },
-    {trainingRecept2:'https://img.freepik.com/free-photo/volleyball-players-having-match_23-2149492368.jpg?ga=GA1.1.1427997224.1745267148&semt=ais_hybrid&w=740'},
-    {trainingBlock:'https://img.freepik.com/free-photo/young-volleyball-man-player-court_23-2149492369.jpg?ga=GA1.1.1427997224.1745267148&semt=ais_hybrid&w=740'},
+    {trainingRecept2:"https://img.freepik.com/free-photo/volleyball-players-having-match_23-2149492368.jpg?ga=GA1.1.1427997224.1745267148&semt=ais_hybrid&w=740"},
+    {trainingBlock:"https://img.freepik.com/free-photo/young-volleyball-man-player-court_23-2149492369.jpg?ga=GA1.1.1427997224.1745267148&semt=ais_hybrid&w=740"},
     {trainingServe:"https://img.freepik.com/free-photo/young-woman-as-volleyball-player_23-2149492366.jpg?ga=GA1.1.1427997224.1745267148&semt=ais_hybrid&w=740"}, 
-    {teamConverse: 'https://img.freepik.com/free-photo/girls-training-volleyball-field_23-2149450955.jpg?ga=GA1.1.1427997224.1745267148&semt=ais_hybrid&w=740'}, 
-    'https://img.freepik.com/free-photo/man-two-women-posing-together-with-volleyball_23-2148662695.jpg?ga=GA1.1.1427997224.1745267148&semt=ais_hybrid&w=740',
+    {teamConverse: "https://img.freepik.com/free-photo/girls-training-volleyball-field_23-2149450955.jpg?ga=GA1.1.1427997224.1745267148&semt=ais_hybrid&w=740"}, 
+    "https://img.freepik.com/free-photo/man-two-women-posing-together-with-volleyball_23-2148662695.jpg?ga=GA1.1.1427997224.1745267148&semt=ais_hybrid&w=740",
 
     "https://img.freepik.com/free-photo/young-volleyball-man-player-court_23-2149492369.jpg?ga=GA1.1.1427997224.1745267148&semt=ais_hybrid&w=740",
 
-    'https://img.freepik.com/free-photo/girls-training-volleyball-field_23-2149450956.jpg?ga=GA1.1.1427997224.1745267148&semt=ais_hybrid&w=740',
-    {groupWarmup1:'https://img.freepik.com/free-photo/volleyball-players-having-match_23-2149492338.jpg?ga=GA1.1.1427997224.1745267148&semt=ais_hybrid&w=740'},
-    {warmup2:'https://img.freepik.com/free-photo/volleyball-players-having-match_23-2149492334.jpg?ga=GA1.1.1427997224.1745267148&semt=ais_hybrid&w=740'}
+    "https://img.freepik.com/free-photo/girls-training-volleyball-field_23-2149450956.jpg?ga=GA1.1.1427997224.1745267148&semt=ais_hybrid&w=740",
+    {groupWarmup1:"https://img.freepik.com/free-photo/volleyball-players-having-match_23-2149492338.jpg?ga=GA1.1.1427997224.1745267148&semt=ais_hybrid&w=740"},
+    {warmup2:"https://img.freepik.com/free-photo/volleyball-players-having-match_23-2149492334.jpg?ga=GA1.1.1427997224.1745267148&semt=ais_hybrid&w=740"}
 ]
   return (
     <>
@@ -117,7 +117,7 @@ const playerImages = [
                 About <span className="text-sky-300">SkySpikers</span>
               </h1>
               <p className="text-xl md:text-2xl mb-8 text-gray-200 leading-relaxed">
-                We're more than just a volleyball academy—we're a community dedicated to developing champions both on
+                We&rsquo;re more than just a volleyball academy—we&rsquo;re a community dedicated to developing champions both on
                 and off the court.
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
@@ -162,7 +162,7 @@ const playerImages = [
             <div className="bg-sky-50 p-8 rounded-xl">
               <h2 className="text-3xl font-display font-bold text-gray-900 mb-6">Our Vision</h2>
               <p className="text-lg text-gray-700 leading-relaxed mb-6">
-                To become London's premier volleyball academy, recognized for developing well-rounded athletes who
+                To become London&rsquo;s premier volleyball academy, recognized for developing well-rounded athletes who
                 embody the values of sportsmanship, dedication, and excellence. We envision a future where our players
                 become leaders in their communities.
               </p>

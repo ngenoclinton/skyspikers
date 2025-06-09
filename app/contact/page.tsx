@@ -52,7 +52,7 @@ export default function ContactPage() {
     {
       question: "How do I register for a program?",
       answer:
-        "You can register by filling out our contact form, calling us directly, or visiting our facility. We'll help you choose the right program and get you started.",
+        "You can register by filling out our contact form, calling us directly, or visiting our facility. We&rsquo;ll help you choose the right program and get you started.",
     },
     {
       question: "Do you offer trial sessions?",
@@ -76,7 +76,7 @@ export default function ContactPage() {
               Get In <span className="text-sky-300">Touch</span>
             </h1>
             <p className="text-xl md:text-2xl mb-8 text-gray-200 max-w-4xl mx-auto leading-relaxed">
-              Ready to start your volleyball journey? We're here to help you find the perfect program and answer any
+              Ready to start your volleyball journey? We&rsquo;re here to help you find the perfect program and answer any
               questions you might have.
             </p>
           </div>
@@ -89,7 +89,7 @@ export default function ContactPage() {
           <div className="text-center mb-16">
             <h2 className="text-4xl font-display font-bold text-gray-900 mb-6">How to Reach Us</h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              Choose the method that works best for you. We're committed to responding quickly and helping you get
+              Choose the method that works best for you. We&rsquo;re committed to responding quickly and helping you get
               started.
             </p>
           </div>
@@ -120,7 +120,7 @@ export default function ContactPage() {
             <div className="text-white">
               <h2 className="text-4xl font-display font-bold mb-8">Visit Our Academy</h2>
               <p className="text-xl text-gray-300 mb-8 leading-relaxed">
-                Come see our world-class facilities and meet our coaching team. We'd love to show you around and help
+                Come see our world-class facilities and meet our coaching team. We&rsquo;d love to show you around and help
                 you find the perfect volleyball program.
               </p>
 
@@ -208,7 +208,7 @@ export default function ContactPage() {
           </div>
 
           <div className="text-center mt-12">
-            <p className="text-gray-600 mb-6">Don't see your question here?</p>
+            <p className="text-gray-600 mb-6">Don&rsquo;t see your question here?</p>
             <a href="mailto:info@skyspikers.com" className="btn-primary inline-flex items-center">
               <Mail className="w-5 h-5 mr-2" />
               Ask Us Directly
@@ -242,7 +242,7 @@ export default function ContactPage() {
         <div className="container mx-auto px-4 max-w-7xl text-center">
           <h2 className="text-4xl font-display font-bold text-gray-900 mb-6">Ready to Get Started?</h2>
           <p className="text-xl text-gray-700 mb-8 max-w-3xl mx-auto">
-            Don't wait to begin your volleyball journey. Contact us today to schedule a visit, ask questions, or enroll
+            Don&rsquo;t wait to begin your volleyball journey. Contact us today to schedule a visit, ask questions, or enroll
             in one of our programs.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
