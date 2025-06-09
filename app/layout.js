@@ -3,8 +3,8 @@ import "./globals.css";
 import { Bebas_Neue, Oswald, Poppins, Inter } from "next/font/google";
 
 // import Navbar from "@/components/navbar"
-import Navbar from "@/components/Navbar";
-import Footer from "@/components/footer";
+import Navbar from ".././components/Navbar";
+import Footer from ".././components/footer";
 
 // Primary font for headings and important text
 const bebasNeue = Bebas_Neue({
