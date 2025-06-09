@@ -1,6 +1,6 @@
 import { Mail, Phone, MapPin, Instagram, Facebook, Twitter } from "lucide-react"
 import Link from "next/link"
-import ContactForm from "@/components/contact-form"
+import ContactForm from "../components/contact-form"
 
 const Footer = () => {
   return (
